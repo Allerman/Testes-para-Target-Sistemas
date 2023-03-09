@@ -24,11 +24,11 @@ Assumindo que você tenha um compilador C instalado em seu sistema, siga estes p
 
 * Navegue até o diretório que contém o arquivo .c que você deseja compilar.
 
-* Digite o comando de compilação, usando de exemplo o primeiro teste fica:
+* Digite o comando de compilação, usando como exemplo o primeiro teste:
 
 > gcc -o teste1 teste1.c 
 
-Realizando a compilação de cada arquivo .c, é possível executar com: 
+Realizando a compilação, é possível executar com: 
  
 > ./teste1
 
